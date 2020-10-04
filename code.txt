@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>this tag is use to print the  tetx at the top of the website </title>
+</head>
+<body>
+	this will print the text in front of the the body of the website 
+
+</body>
+</html>
+ you can run it in any code editor
